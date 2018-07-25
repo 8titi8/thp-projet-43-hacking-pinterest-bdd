@@ -8,4 +8,7 @@
 		<li><strong>Thomas Fernandez</strong> : 06 58 88 68 09</li>
 		<li><strong>Mathilde Ray</strong> : 06 25 98 18 85</li>
 		</ul></p>
+<p> The Hacking Pinterest
+Nous voulons faire de la concurrence à Pinterest, donc nous créons un site où les utilisateurs peuvent créer des "pins". Chaque pin contient une URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.</p>
+
 
