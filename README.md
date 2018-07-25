@@ -18,3 +18,5 @@
 		<li> COMMENT qui a comme attribut content. Belongs_to user and pin </li>
 		</ul></p>
 
+Ce programme a été fait avec rails.
+Il utilise toutes les gems de RAILS par défaut, plus celle de FAKER qui permet d'avoir des données dans la base.
