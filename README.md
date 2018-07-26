@@ -16,7 +16,7 @@
 		<li> <strong>User</strong> qui a comme attributs 'first_name', 'last-name' et 'email'.<br/>
 			- <em>has_many</em> : Un user a plusieurs pins et commentaires </li>
 		<li> <strong>Pins</strong> qui a comme attributs 'title' et 'url'.<br/>
-			- <em>has_many</em> : Une punaise a plusieurs commentaires
+			- <em>has_many</em> : Une punaise a plusieurs commentaires<br/>
 			- <em>belongs_to</em> : Une punaise appartient à un utilisateur</li>
 		<li> <strong>Comment</strong> qui a comme attribut 'content'.<br/>
 			- <em>belongs_to</em> : Un commentaire appartient à un utilisateur et une punaise</li>
